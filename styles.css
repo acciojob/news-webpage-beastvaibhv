@@ -4,9 +4,10 @@ body{
 	
 	display: block;
 }
-h1{
-	padding: 0px;
+h1, h2, h3{
+	padding: 10px;
 	margin: 0px;
+	text-align: center;
 }
 .header{
 	text-align:center;
